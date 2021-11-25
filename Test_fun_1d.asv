@@ -1,0 +1,15 @@
+clear all
+close all
+clc
+
+S = [1 -2 3]
+E0=[]
+for i=1:length(S)-1
+    for j=1:length(S)-1
+        E=S(i)*S(i+1)
+        vecE=[E0;E] 
+        E0=vecE
+        i
+    end
+end
+Ising1D=vecE

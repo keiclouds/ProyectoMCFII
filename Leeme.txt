@@ -1,0 +1,3 @@
+El archivo que dice Ising_FA y fun_Ising2D, son lo que tengo de momento
+Los archivos Modelo_Ising1D, y las 2 funciones "fun" restantes, son la version en 1D
+Los que dicen Test son lo que he estado probando
