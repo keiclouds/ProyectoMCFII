@@ -1,0 +1,14 @@
+Las carpetas están dividas por puntos,
+cada punto tiene las variables de las simulaciones
+y cada simulacion tiene el número de intentos.
+
+La nomenclatura es: 
+Largo de matriz, Temperatura, Número de pasos
+
+Si antes del nombre tiene una "m", es de manual, lo hice a mano
+Si despues del nombre tiene una "M", es de magnetización.
+
+En principio, para corroborar si no me confundí, se pueden ver
+las dimensiones de la matriz en el archivo de "m_nomenclatura"
+y de pasos en "m_nomenclatura_M", pero para la temperatura, no
+hay un grafico asociado.
